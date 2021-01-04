@@ -1,9 +1,0 @@
-email: foo@example.com
-login: foo
-password: 1$2y$10$fzTExJvBK84ml3aVeFFyaudBMVmX.8Ua4/VbcoCyCLwBYKOXphyT2
-smtp:
-  server: stmp.googlemail.com
-  port: 465
-  protocol: ssl
-  login: v.guevorte@gmail.com
-  password: Guevorte-62
